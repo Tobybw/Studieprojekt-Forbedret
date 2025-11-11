@@ -1,0 +1,28 @@
+{
+    "name": "Studieprojekt - 1",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Studieprojekt - 1": "github:tobybw/studieprojekt-1#14b6f21c4366f2d4cb0869b825dd1ba2b66ed718"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.61",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
