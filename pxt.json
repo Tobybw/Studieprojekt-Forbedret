@@ -3,7 +3,10 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "Studieprojekt - 1": "github:tobybw/studieprojekt-1#14b6f21c4366f2d4cb0869b825dd1ba2b66ed718"
+        "Studieprojekt - 1": "github:tobybw/studieprojekt-1#14b6f21c4366f2d4cb0869b825dd1ba2b66ed718",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "animation": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
     },
     "files": [
         "main.blocks",
@@ -18,7 +21,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.0.61",
+        "target": "2.0.62",
         "targetId": "arcade"
     },
     "supportedTargets": [
